@@ -2,6 +2,8 @@
 A sample project for Software Engineers looking to perform unit tests in Go
 <br>
 This example shows a manual test, but can easily be automated via CICD pipelines or runners by DevOps engineers.
+<br>
+As part of the example, I have created an automated test workflow [here](https://github.com/ByteSizedLaw/GoLang-Unit-Tests/blob/main/.github/workflows/main-unit-test.yaml), which is automatically run when you push to the Main branch.
 
 ## How to execute the test:
 1. Clone the repo to a folder on your PC
